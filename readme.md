@@ -1,1 +1,2 @@
-안녕하세요 readme 파일입니다.
+# dream
+My dream is ... To create a good web looking for one hundred million people a day.
